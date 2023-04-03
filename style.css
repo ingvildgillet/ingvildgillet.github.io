@@ -1,15 +1,14 @@
 @font-face {
   font-family: 'SophiaNubian';
-  src: url('/Library/Fonts/SNB.ttf') format('SNB.ttf'),
-       url('/Library/Fonts/SNB.ttf') format('SNB.ttf'),
-     }
- {
+  src: url('/Library/Fonts/SNB.ttf') format('truetype');
+  }
+
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: SophiaNubian
-    color: #777
-
+    font-family: SophiaNubian;
+    color: #777;
 }
 
 body {
@@ -43,12 +42,11 @@ main {
     font-size: 10px;
 
 }
-
-#list_of_content{
+#list_of_content1, #list_of_content2 {
     background-color: white;
     font-family: SophiaNubian;
-    color: black
-    padding: 10px 15px 20px 25px
+    color: black;
+    padding: 10px 15px 20px 25px;
     font-size: 10px;
 }
 

@@ -30,8 +30,7 @@ nav li {
     margin-right: 1rem;
 }
 
-
-nav a {
+a {
     color: black;
     text-decoration: none;
 }
@@ -41,7 +40,7 @@ main {
     justify-content: center;
     padding: 2rem;
     font-family: SophiaNubian;
-    line-height: 2;
+    line-height: 1.5; /* Updated line-height */
     font-size: 10px;
 }
 
@@ -52,6 +51,11 @@ main {
     padding: 10px 15px 20px 25px;
     font-size: 10px;
     margin-right: 1rem;
+}
+
+#list_of_content1 a, #list_of_content2 a { /* Added this rule */
+    color: black;
+    text-decoration: none;
 }
 
 

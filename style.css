@@ -69,6 +69,8 @@ main {
 #text { /* New rule */
     text-align: center;
     font-size: 12px;
+     padding: 0 2rem; /* Add padding to the left and right */
+    line-height: 1.8; /* Increase the space between the lines */
 }
 
 footer {

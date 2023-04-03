@@ -39,7 +39,8 @@ nav a {
 main {
     padding: 2rem;
     font-family: SophiaNubian;
-    line-height: 2;
+    line-height: 2
+    font-size: 10px;
 
 }
 

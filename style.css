@@ -113,6 +113,21 @@ footer {
     padding: 0.5rem;
   }
 
+  .content-text-header {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .content-text {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .content-page {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
   /* Add any other styles you want to apply to mobile devices here */
 }
 

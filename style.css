@@ -74,6 +74,10 @@ main {
     line-height: 2.00; /* Increase the space between the lines */
 }
 
+#text_header {
+    text-align: center;
+}
+
 footer {
     background-color: #333;
     color: white;

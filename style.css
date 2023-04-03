@@ -33,6 +33,11 @@ nav a {
     font-size: 12px; /* Added this line to change the font size to 11px */
 }
 
+nav a:hover, #list_of_content1 a:hover, #list_of_content2 a:hover {
+    color: grey;
+}
+
+
 nav li {
     display: inline;
     margin-right: 1rem;

@@ -66,6 +66,10 @@ main {
     text-decoration: none;
 }
 
+#text { /* New rule */
+    text-align: center;
+    font-size: 12px;
+}
 
 footer {
     background-color: #333;

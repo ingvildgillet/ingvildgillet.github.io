@@ -128,6 +128,10 @@ footer {
     padding-right: 15px;
   }
 
+  #list_of_content1, #list_of_content2 {
+    font-size: 10px; /* Adjust font size for mobile */
+  }
+
   /* Add any other styles you want to apply to mobile devices here */
 }
 

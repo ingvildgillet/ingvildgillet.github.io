@@ -14,8 +14,7 @@
 
 body {
     font-family: SophiaNubian, sans-serif;
-    line-height: 1.6
-    font-size: 60px;
+    line-height: 1.6;
 }
 
 header {
@@ -25,7 +24,7 @@ header {
 
 nav ul {
     list-style-type: none;
-}
+    }
 
 nav li {
     display: inline;

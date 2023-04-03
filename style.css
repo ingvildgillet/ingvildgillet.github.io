@@ -42,13 +42,14 @@ nav a:hover {
 
 main {
     padding: 2rem;
-    font-family: SophiaNubian, sans-serif;
+    font-family: SophiaNubian;
     line-height: 1.6;
 
 }
 
 #list_of_content{
     background-color: white;
+    font-family: SophiaNubian;
     color: black
     padding: 2rem;
 }

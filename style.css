@@ -47,6 +47,12 @@ main {
 
 }
 
+#list_of_content{
+    background-color: white;
+    color: black
+    padding: 2rem;
+}
+
 h1, h2 {
     margin-bottom: 1rem;
 }

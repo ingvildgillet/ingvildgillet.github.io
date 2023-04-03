@@ -36,10 +36,6 @@ nav a {
     text-decoration: none;
 }
 
-nav a:hover {
-    text-decoration: underline;
-}
-
 main {
     padding: 2rem;
     font-family: SophiaNubian;

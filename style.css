@@ -93,3 +93,27 @@ footer {
     text-align: center;
     padding: 1rem;
 }
+
+
+/* Mobile Styles */
+@media screen and (max-width: 768px) {
+    /* Adjust navigation menu styles for mobile */
+    nav {
+        margin-left: 1rem; /* Adjust left margin */
+    }
+
+    nav li {
+        display: block; /* Change menu items to display as block elements */
+        margin-bottom: 0.5rem; /* Add space between menu items */
+    }
+
+    /* Adjust content list styles for mobile */
+    main {
+        flex-direction: column; /* Stack content lists vertically */
+        padding: 1rem;
+    }
+
+    #list_of_content1, #list_of_content2 {
+        margin-bottom: 1rem; /* Add space between content lists */
+    }
+}

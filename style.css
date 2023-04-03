@@ -48,6 +48,10 @@ a {
     text-decoration: none;
 }
 
+body, p {
+    font-family: SophiaNubian, Arial, sans-serif;
+}
+
 main {
     display: flex;
     justify-content: center;

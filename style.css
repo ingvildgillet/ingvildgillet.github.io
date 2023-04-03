@@ -65,17 +65,21 @@ main {
     color: black;
     text-decoration: none;
 }
+.content-page {
+    padding-top: 2rem; /* Adjust this value to get the desired spacing */
+}
 
-#text { /* New rule */
+.content-text {
     text-align: center;
     font-size: 12px;
      padding: 0 30rem; /* Add padding to the left and right */
       text-align: justify; /* Added this line to justify the text */
-    line-height: 2.00; /* Increase the space between the lines */
+    line-height: 2.00; /* Increase the space between the lines */;
 }
 
-#text_header {
+.content-text-header {
     text-align: center;
+    margin-bottom: 0.5rem; /* Adjust this value to get the desired spacing between the header and the content */
 }
 
 footer {

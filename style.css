@@ -135,6 +135,11 @@ footer {
   /* Add any other styles you want to apply to mobile devices here */
 }
 
+.special-main {
+  padding-right: 50rem; /* Adjust the value as needed */
+}
+
 .special-main > div > div {
   margin-bottom: 2rem; /* Adjust the spacing as needed */
 }
+

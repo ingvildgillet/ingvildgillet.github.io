@@ -136,10 +136,15 @@ footer {
 }
 
 .special-main {
-  padding-right: 20rem; /* Adjust the value as needed */
+  padding-right: 20rem;/* Adjust the value as needed */
+  text-align: center;
 }
 
 .special-main > div > div {
   margin-bottom: 2rem; /* Adjust the spacing as needed */
+}
+
+.double-spaced {
+  line-height: 2; /* Apply double spacing */
 }
 

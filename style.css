@@ -93,8 +93,9 @@ main {
 
 footer {
     background-color: white;
+    font-size: 12px;
     color: black;
-    text-align: right;
+    text-align: left;
     padding: 2rem;
 }
 

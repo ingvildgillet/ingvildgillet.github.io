@@ -148,3 +148,7 @@ footer {
   line-height: 2; /* Apply double spacing */
 }
 
+.bold {
+  font-weight: bold;
+}
+

@@ -136,8 +136,10 @@ footer {
 }
 
 .special-main {
-  padding-right: 20rem;/* Adjust the value as needed */
-  text-align: center;
+    text-align: center;
+    font-size: 12px;
+     padding: 0 30rem; /* Add padding to the left and right */
+      text-align: justify;
 }
 
 .special-main > div > div {

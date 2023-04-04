@@ -167,5 +167,11 @@ footer a:hover {
         padding-right: 10px !important; /* Adjust the padding on the right */
     }
 }
+@media (max-width: 768px) {
+    .ingvild-page footer {
+    font-size: 12px
+        text-align: left;
+    }
+}
 
 

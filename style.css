@@ -161,7 +161,7 @@ footer a:hover {
 
 
 @media (max-width: 768px) {
-    .special-main {
+    .ingvild-page .special-main {
         font-size: 10px; /* Adjust the font size */
         padding-left: 10px; /* Adjust the padding on the left */
         margin-left: 10px; /* Adjust the margin on the left */

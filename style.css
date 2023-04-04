@@ -135,3 +135,6 @@ footer {
   /* Add any other styles you want to apply to mobile devices here */
 }
 
+.special-main > div > div {
+  margin-bottom: 1rem; /* Adjust the spacing as needed */
+}

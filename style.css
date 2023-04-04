@@ -168,10 +168,10 @@ footer a:hover {
     }
 }
 @media (max-width: 768px) {
-    .ingvild-page footer {
-    font-size: 12px
+    .ingvild-page footer div {
         text-align: left;
     }
 }
+
 
 

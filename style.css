@@ -166,12 +166,12 @@ footer a:hover {
         margin-left: 10px !important; /* Adjust the margin on the left */
         padding-right: 10px !important; /* Adjust the padding on the right */
     }
-}
-@media (max-width: 768px) {
-    .ingvild-page footer {
+        .ingvild-page footer {
+        padding-left: 10px !important; /* Adjust the padding on the left */
         text-align: left !important;
     }
 }
+
 
 
 
